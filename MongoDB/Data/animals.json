@@ -1,0 +1,46 @@
+{
+    "animals": [
+        {
+            "animal_name": "Tiger",
+            "descriptions": [
+                "Orange Emperor", 
+                "Majestic Beast"
+            ]
+        },
+        {
+            "animal_name": "Hippo",
+            "descriptions": [
+                "Mighty Bulk", 
+                "Colossal Crusher" 
+            ]
+        },
+        {
+            "animal_name": "Zebra",
+            "descriptions": [
+                "Striped Sentinel", 
+                "Equine Enigma"
+            ]
+        },
+        {
+            "animal_name": "Rabbit",
+            "descriptions": [
+                "Swift Sprinter", 
+                "Cottontail Charmer"
+            ]
+        },
+        {
+            "animal_name": "Turtle",
+            "descriptions": [
+                "Hard-Shelled Hero",
+                "Ancient Wanderer"
+            ]
+        },
+        {
+            "animal_name": "Elephant",
+            "descriptions": [
+                "Grey Giant",
+                "Royal Tusker"
+            ]
+        }
+    ]
+}

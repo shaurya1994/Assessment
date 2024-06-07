@@ -1,0 +1,62 @@
+{
+    "prefix_nouns": [
+        {
+            "noun": "Iron",
+            "description": "A strong and durable metal, often associated with strength and resilience."
+        },
+        {
+            "noun": "Mighty",
+            "description": "Conveys a sense of power, grandeur, and overwhelming strength."
+        }
+    ],
+
+    "animals": [
+        {
+            "animal": "Tiger",
+            "descriptions": [
+                "Orange Emperor", 
+                "Majestic Beast"
+            ]
+        },
+        {
+            "animal": "Hippo",
+            "descriptions": [
+                "Mighty Bulk", 
+                "Colossal Crusher"
+            ]
+        }
+    ],
+
+    "states": [
+        {
+            "state": "Arunachal Pradesh",
+            "latitude": 27.0844,
+            "longitude": 93.6057
+        },
+        {
+            "state": "Assam",
+            "latitude": 26.1433,
+            "longitude": 91.7898
+        }
+    ]
+}
+
+
+{
+    "legandary_animal_sighting": [
+        {
+            "animal": "Iron Tiger",
+            "state": "Arunachal Pradesh",
+            "latitude": 27.0844,
+            "longitude": 93.6057
+        },
+        {
+            "animal": "Mighty Hippo",
+            "state": "Assam",
+            "latitude": 26.1433,
+            "longitude": 91.7898
+        }
+    ],
+}
+
+

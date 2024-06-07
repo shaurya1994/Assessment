@@ -1,0 +1,173 @@
+
+{
+  "states": [
+    {
+      "name": "Andhra Pradesh",
+      "capital": "Hyderabad",
+      "latitude": 17.3850,
+      "longitude": 78.4867
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "capital": "Itanagar",
+      "latitude": 27.0844,
+      "longitude": 93.6057
+    },
+    {
+      "name": "Assam",
+      "capital": "Dispur",
+      "latitude": 26.1433,
+      "longitude": 91.7898
+    },
+    {
+      "name": "Bihar",
+      "capital": "Patna",
+      "latitude": 25.5941,
+      "longitude": 85.1376
+    },
+    {
+      "name": "Chhattisgarh",
+      "capital": "Raipur",
+      "latitude": 21.2787,
+      "longitude": 81.8661
+    },
+    {
+      "name": "Goa",
+      "capital": "Panaji",
+      "latitude": 15.4909,
+      "longitude": 73.8278
+    },
+    {
+      "name": "Gujarat",
+      "capital": "Gandhinagar",
+      "latitude": 23.2156,
+      "longitude": 72.6369
+    },
+    {
+      "name": "Haryana",
+      "capital": "Chandigarh",
+      "latitude": 30.7333,
+      "longitude": 76.7794
+    },
+    {
+      "name": "Himachal Pradesh",
+      "capital": "Shimla",
+      "latitude": 31.1048,
+      "longitude": 77.1734
+    },
+    {
+      "name": "Jharkhand",
+      "capital": "Ranchi",
+      "latitude": 23.3441,
+      "longitude": 85.3096
+    },
+    {
+      "name": "Karnataka",
+      "capital": "Bengaluru",
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    {
+      "name": "Kerala",
+      "capital": "Thiruvananthapuram",
+      "latitude": 8.5241,
+      "longitude": 76.9366
+    },
+    {
+      "name": "Madhya Pradesh",
+      "capital": "Bhopal",
+      "latitude": 23.2599,
+      "longitude": 77.4126
+    },
+    {
+      "name": "Maharashtra",
+      "capital": "Mumbai",
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    },
+    {
+      "name": "Manipur",
+      "capital": "Imphal",
+      "latitude": 24.8170,
+      "longitude": 93.9368
+    },
+    {
+      "name": "Meghalaya",
+      "capital": "Shillong",
+      "latitude": 25.5788,
+      "longitude": 91.8933
+    },
+    {
+      "name": "Mizoram",
+      "capital": "Aizawl",
+      "latitude": 23.7271,
+      "longitude": 92.7176
+    },
+    {
+      "name": "Nagaland",
+      "capital": "Kohima",
+      "latitude": 25.6751,
+      "longitude": 94.1086
+    },
+    {
+      "name": "Odisha",
+      "capital": "Bhubaneswar",
+      "latitude": 20.2961,
+      "longitude": 85.8245
+    },
+    {
+      "name": "Punjab",
+      "capital": "Chandigarh",
+      "latitude": 30.7333,
+      "longitude": 76.7794
+    },
+    {
+      "name": "Rajasthan",
+      "capital": "Jaipur",
+      "latitude": 26.9124,
+      "longitude": 75.7873
+    },
+    {
+      "name": "Sikkim",
+      "capital": "Gangtok",
+      "latitude": 27.3314,
+      "longitude": 88.6138
+    },
+    {
+      "name": "Tamil Nadu",
+      "capital": "Chennai",
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    },
+    {
+      "name": "Telangana",
+      "capital": "Hyderabad",
+      "latitude": 17.3850,
+      "longitude": 78.4867
+    },
+    {
+      "name": "Tripura",
+      "capital": "Agartala",
+      "latitude": 23.8315,
+      "longitude": 91.2868
+    },
+    {
+      "name": "Uttar Pradesh",
+      "capital": "Lucknow",
+      "latitude": 26.8467,
+      "longitude": 80.9462
+    },
+    {
+      "name": "Uttarakhand",
+      "capital": "Dehradun",
+      "latitude": 30.3165,
+      "longitude": 78.0322
+    },
+    {
+      "name": "West Bengal",
+      "capital": "Kolkata",
+      "latitude": 22.5726,
+      "longitude": 88.3639
+    }
+  ]
+}

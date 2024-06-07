@@ -1,0 +1,24 @@
+{
+    "prefix_nouns": [
+        {
+            "noun": "Iron",
+            "description": "A strong and durable metal, often associated with strength and resilience."
+        },
+        {
+            "noun": "Mighty",
+            "description": "Conveys a sense of power, grandeur, and overwhelming strength."
+        },
+        {
+            "noun": "White",
+            "description": "The color of purity, innocence, and simplicity. It often symbolizes peace, cleanliness, and a blank canvas."
+        },
+        {
+            "noun": "Ancient",
+            "description": "Something that is very old and originates from a distant past. It carries a sense of history, wisdom, and timelessness."
+        },
+        {
+            "noun": "Flying",
+            "description": "Denotes movement through the air, freedom, and the ability to soar above limitations."
+        }
+    ]
+}
